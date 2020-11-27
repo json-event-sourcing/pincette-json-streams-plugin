@@ -101,6 +101,9 @@
             <link>http://docs.oracle.com/javase/8/docs/api/</link>
             <link>https://www.javadoc.io/doc/net.pincette/pincette-mongo-streams/1.1/</link>
           </links>
+          <sourceFileExcludes>
+            <sourceFileExclude>**/module-info.java</sourceFileExclude>
+          </sourceFileExcludes>
         </configuration>
       </plugin>
       <plugin>
