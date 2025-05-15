@@ -6,7 +6,7 @@
 
   <groupId>net.pincette</groupId>
   <artifactId>pincette-json-streams-plugin</artifactId>
-  <version>3.0.5</version>
+  <version>3.0.6</version>
   <packaging>jar</packaging>
   <name>pincette-json-streams-plugin</name>
   <description>JSON Streams plugin API</description>
@@ -52,12 +52,12 @@
     <dependency>
       <groupId>net.pincette</groupId>
       <artifactId>pincette-mongo</artifactId>
-      <version>4.1.13</version>
+      <version>4.1.14</version>
     </dependency>
     <dependency>
       <groupId>net.pincette</groupId>
       <artifactId>pincette-mongo-streams</artifactId>
-      <version>3.2.1</version>
+      <version>3.2.2</version>
     </dependency>
   </dependencies>
 
