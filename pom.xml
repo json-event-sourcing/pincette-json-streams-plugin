@@ -6,7 +6,7 @@
 
   <groupId>net.pincette</groupId>
   <artifactId>pincette-json-streams-plugin</artifactId>
-  <version>3.0.9</version>
+  <version>3.0.10</version>
   <packaging>jar</packaging>
   <name>pincette-json-streams-plugin</name>
   <description>JSON Streams plugin API</description>
@@ -52,12 +52,12 @@
     <dependency>
       <groupId>net.pincette</groupId>
       <artifactId>pincette-mongo</artifactId>
-      <version>4.3.1</version>
+      <version>4.3.2</version>
     </dependency>
     <dependency>
       <groupId>net.pincette</groupId>
       <artifactId>pincette-mongo-streams</artifactId>
-      <version>3.3.2</version>
+      <version>3.3.3</version>
     </dependency>
   </dependencies>
 
@@ -96,7 +96,7 @@
             </additionalJOption>
           </additionalJOptions>
           <links>
-            <link>https://docs.oracle.com/en/java/javase/11/docs/api/</link>
+            <link>https://docs.oracle.com/en/java/javase/21/docs/api/</link>
             <link>https://www.javadoc.io/doc/net.pincette/pincette-mongo/latest/</link>
             <link>https://www.javadoc.io/doc/net.pincette/pincette-mongo-streams/latest/</link>
           </links>
